@@ -21,7 +21,6 @@
 */
 
 
-
 /*
 	Compilation:
 	gcc openssl_aes_cbc.c -lcrypto
