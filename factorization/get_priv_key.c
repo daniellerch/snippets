@@ -21,7 +21,6 @@
 */
 
 
-
 /*
 	After factorization, it gets the orifinal RSA key:
    ==================================================================
