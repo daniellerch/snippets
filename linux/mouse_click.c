@@ -20,8 +20,6 @@
    DEALINGS IN THE SOFTWARE.
 */
 
-/* For more information visit www.daniellerch.me */
-
 
 
 /*
