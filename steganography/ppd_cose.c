@@ -20,6 +20,7 @@
    DEALINGS IN THE SOFTWARE.
 */
 
+
 /* 
    Daniel Lerch-Hostalot, David Megías. LSB matching steganalysis based on 
    patterns of pixel differences and random embedding Computers & Security, 
