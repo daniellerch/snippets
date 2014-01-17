@@ -20,7 +20,6 @@
    DEALINGS IN THE SOFTWARE.
 */
 
-
 #include <gmpxx.h>
 #include <iostream>
 
